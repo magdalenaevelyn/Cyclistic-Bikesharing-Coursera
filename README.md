@@ -2,7 +2,10 @@
 
 ## About this project
 This project is a final project of Google Data Analytics Sertification from Coursera. 
+
 Made by Magdalena Evelyn H.
+
+Date March 31, 2024
 
 ## Dataset
 The dataset, you can use from [this source](https://divvy-tripdata.s3.amazonaws.com/index.html)
